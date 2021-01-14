@@ -4,5 +4,5 @@ go 1.12
 
 require (
 	github.com/Jeffail/gabs/v2 v2.5.1
-	github.com/stretchr/testify v1.6.1
+	github.com/stretchr/testify v1.7.0
 )
